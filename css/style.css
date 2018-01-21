@@ -254,7 +254,7 @@ button {
 	font: inherit;
 	color: #fff;
 	background-color: #00C0FF;
-	width: 25%;
+	width: 60%;
 	border: none;
 }
 
@@ -431,6 +431,10 @@ footer {
 
     .gallery:nth-child(even) {
         margin-left: 0;
+    }
+
+    button {
+        width: 60%;
     }
 }
 
